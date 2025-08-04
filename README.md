@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Gaur</h1>
+<h1 align="left">Hi there, I'm Gaurangi</h1>
 <h3 align="left">A ML enthusiast exploring NLP, and AI through hands-on academic and personal projects.</h3>
 
 - 🔭 I’m currently working on **Personalized RAG Tutor**
