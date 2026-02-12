@@ -1,8 +1,6 @@
 <h1 align="left">Hi there, I'm Gaurangi</h1>
 <h3 align="left">A ML enthusiast exploring NLP, and AI through hands-on academic and personal projects.</h3>
 
-- 🔭 I’m currently working on **Personalized RAG Tutor**
-
 - 🌱 I’m currently learning **Agentic LLM workflows, prompt engineering strategies**
 
 - 👯 I’m looking to collaborate on **Industry leading ML projects, NLP, ML pipelines and data science problems**
